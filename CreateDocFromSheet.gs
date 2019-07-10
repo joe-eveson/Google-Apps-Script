@@ -19,7 +19,7 @@ function createDocFromSheet(){
     lock.releaseLock(); 
         
  // Set folder for generated docs
-    var folder = DriveApp.getFolderById("YourFolderIdHere") // Generated Letters V2    
+    var folder = DriveApp.getFolderById("YourFolderIdHere")
       
  // Select a template based on a variable in the response data
        
